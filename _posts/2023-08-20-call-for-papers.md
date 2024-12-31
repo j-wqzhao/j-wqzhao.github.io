@@ -4,7 +4,7 @@ author: wqzhao
 date: 2023-08-20 00:50:00 -0700
 categories: [News]
 tags: [news]
-pin: true
+pin: false
 redirect_from:
   - /cfp
 ---
