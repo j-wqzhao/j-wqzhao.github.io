@@ -31,12 +31,6 @@ The first half of the concert was the performance of Thomas Larcher's *Time, Thr
 which showcased the hall's stunning acoustics.
 Each note revealed the venue’s rich, resonant quality.
 
-The second half was the performance of Mahler's *Symphony No. 2 (Resurrection)*, which I was looking forward to.
-This symphony is one of my favorite pieces of Mahler.
-The piece is so powerful and touching, and I am almost into tears at the end of the performance.
-The words "I shall die, so as to live!" (Sterben werd' ich, um zu leben!) were so inspiring, along with the orchestral and choral performance.
-Yes, resurrection. I feel the resurrection of life and spirit. Arise from the dead!
-
 Then came the second half of the concert.
 Mahler's *Symphony No. 2* is one of my favorite pieces.
 It’s powerful and emotional, and I nearly teared up at the end.
@@ -48,9 +42,6 @@ The flexible tempo lent extra emotional depth, giving me a new perspective on a 
 <iframe allow="autoplay *; encrypted-media *;" class="light" frameborder="0" height="450" style="width:100%;overflow:hidden;background:transparent;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/mahler-symphony-no-2-resurrection/1452225107?theme=light"></iframe>
 <iframe allow="autoplay *; encrypted-media *;" class="dark" frameborder="0" height="450" style="width:100%;overflow:hidden;background:transparent;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/mahler-symphony-no-2-resurrection/1452225107?theme=dark"></iframe>
 
-<!-- After the performance, I talked to the person sitting next to me, a viola player from the La Jolla Symphony.
-She talked to me about her own experience of playing Mahler's symphonies.
-Wow, that was wonderful. -->
 Afterward, I chatted with a viola player from the La Jolla Symphony.
 She shared her experience of performing Mahler's symphonies
 --- an unforgettable conversation that capped an inspiring afternoon.
