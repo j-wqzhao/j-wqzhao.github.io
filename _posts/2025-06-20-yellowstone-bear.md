@@ -7,9 +7,10 @@ tags: [travel, bear]
 pin: false
 ---
 
-A bear is seen from our bus!
-what a lovely small bear, probably a cub.
+A bear is seen from our bus in the Yellowstone National Park today!
+What a lovely small bear, probably a cub.
+It is brown, though I am not sure whether it is a grizzly bear or a black bear.
 
 > This February,
 > I was also lucky enough to see a black bear (though brown color)
-> at the Sequia National Park, which was rare in Winter.
+> at the Sequoia National Park, which was rare in Winter.
