@@ -18,6 +18,10 @@ You may find out today I also made several contributions (to my private reposito
 ![GitHub Halloween 2025 Themed Contribution Graph (Light Theme)](/assets/img/2025-10-31-halloween-2025-github-light.png){: .light }
 ![GitHub Halloween 2025 Themed Contribution Graph (Dark Theme)](/assets/img/2025-10-31-halloween-2025-github-dark.png){: .dark }
 
+The Warren bear at UCSD is also celebrating Halloween by wearing a pumpkin 🎃 at one of its cute little ears!
+
+![Warren Bear Wearing Pumpkin Hat](/assets/img/2025-10-31-halloween-2025-bear.jpg)
+
 Nice to see the halloween boba milk tea 🥤 (not so delicious though).
 
 ![Halloween Themed Boba Milk Tea](/assets/img/2025-10-31-halloween-2025-milk-tea.jpg)
