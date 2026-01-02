@@ -22,8 +22,8 @@ image:
 
 More in this post: [**Melodic Magic of Saint-Saëns: Violin and Organ**](/posts/melodic-magic-saint-saens/)
 
-{: .d-flex .justify-content-center }
-![Jacobs Music Center Interior Including the Pipe Organ Chamber](assets/img/2025-01-12-jacobs-music-center-side.jpeg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Jacobs Music Center Interior Including the Pipe Organ Chamber](assets/img/2025-01-12-jacobs-music-center-side.jpeg){: .normal .mw-50 }
 ![Applause after the performance of Saint-Saëns' Organ Symphony.](assets/img/2025-01-12-applause.jpeg){: .normal .mw-50 }
 
 ## Symphonic Dances
@@ -33,8 +33,8 @@ More in this post: [**Melodic Magic of Saint-Saëns: Violin and Organ**](/posts/
 > Location
 > : Jacobs Music Center, San Diego
 
-{: .d-flex .justify-content-center }
-![Brochure and ticket of the performance of Mother Goose and Symphonic Dances.](assets/img/2025-12-31-symphonic-dances-applause.jpg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Brochure and ticket of the performance of Mother Goose and Symphonic Dances.](assets/img/2025-12-31-symphonic-dances-applause.jpg){: .normal .mw-50 }
 ![Applause after the performance of Symphonic Dances.](assets/img/2025-12-31-symphonic-dances-brochure.jpg){: .normal .mw-50 }
 
 ## Salome
@@ -44,9 +44,9 @@ More in this post: [**Melodic Magic of Saint-Saëns: Violin and Organ**](/posts/
 > Location
 > : Civic Theatre, San Diego
 
-{: .d-flex .justify-content-center }
-![Salome performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-salome-marquee.jpg){: style="width: 128%; height: auto;" .normal .me-2 }
-![Salome performance brochure in at San Diego Civic Theatre.](assets/img/2025-12-31-salome-brochure.jpg){: style="width: 72%; height: auto;" .normal }
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Salome performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-salome-marquee.jpg){: .normal .flex-64 }
+![Salome performance brochure in at San Diego Civic Theatre.](assets/img/2025-12-31-salome-brochure.jpg){: .normal .flex-36 }
 
 
 I have since found Salome to be a [great energy booster during my research work](/posts/salome-for-energy).
@@ -58,8 +58,8 @@ I have since found Salome to be a [great energy booster during my research work]
 > Location
 > : Civic Theatre, San Diego
 
-{: .d-flex .justify-content-center }
-![La Traviata performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-la-traviata-marquee.jpg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![La Traviata performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-la-traviata-marquee.jpg){: .normal .mw-50 }
 ![La Traviata performance brochure in at San Diego Civic Theatre.](assets/img/2025-12-31-la-traviata-brochure.jpg){: .normal .mw-50 }
 
 ## Bruckner Symphony No. 7
@@ -71,9 +71,9 @@ I have since found Salome to be a [great energy booster during my research work]
 
 ### Path to the Choral Terrace
 
-{: .d-flex .justify-content-center }
-![Path to the choral area at Jacobs Music Center for Bruckner Symphony No. 7 performance. The side corridor with decoration passing over the balcony seats, right over the pipe organ.](/assets/img/2025-12-31-bruckner-symphony-no7-choral-path-1.jpg){: .normal .me-2}
-![Path to the choral area at Jacobs Music Center for Bruckner Symphony No. 7 performance. The magical staircases that we climb up to the choral terrace.](/assets/img/2025-12-31-bruckner-symphony-no7-choral-path-2.jpg){: .normal .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Path to the choral area at Jacobs Music Center for Bruckner Symphony No. 7 performance. The side corridor with decoration passing over the balcony seats, right over the pipe organ.](/assets/img/2025-12-31-bruckner-symphony-no7-choral-path-1.jpg){: .normal }
+![Path to the choral area at Jacobs Music Center for Bruckner Symphony No. 7 performance. The magical staircases that we climb up to the choral terrace.](/assets/img/2025-12-31-bruckner-symphony-no7-choral-path-2.jpg){: .normal }
 ![Path to the choral area at Jacobs Music Center for Bruckner Symphony No. 7 performance. The door to the choral terrace. Taken during the intermission.](/assets/img/2025-12-31-bruckner-symphony-no7-choral-path-3.jpg){: .normal }
 
 ### The First Half
@@ -133,8 +133,8 @@ Academy of St. Martin in the Fields Chamber Ensemble.
 > Location
 > : Civic Theatre, San Diego
 
-{: .d-flex .justify-content-center }
-![Pagliacci performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-pagliacci-marquee.jpg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Pagliacci performance marquee at San Diego Civic Theatre.](assets/img/2025-12-31-pagliacci-marquee.jpg){: .normal .mw-50 }
 ![Pagliacci performance brochure in at San Diego Civic Theatre.](assets/img/2025-12-31-pagliacci-brochure.jpg){: .normal .mw-50 }
 
 
@@ -150,8 +150,8 @@ Academy of St. Martin in the Fields Chamber Ensemble.
 
 ### Bruckner's Symphony No. 4 "Romantic"
 
-{: .d-flex .justify-content-center }
-![Where Shiny Trumpets Blow performance at Jacobs Music Center.](assets/img/2025-11-07-bear-thday-sd-symphony.jpg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Where Shiny Trumpets Blow performance at Jacobs Music Center.](assets/img/2025-11-07-bear-thday-sd-symphony.jpg){: .normal .mw-50 }
 ![Two tickets for the performance Where Shiny Trumpets Blow.](assets/img/2025-12-31-mahler-bruckner.jpg){: .normal .mw-50 }
 
 Also in this post: [**Happy Bear-thday!**](/posts/happy-bear-thday/)
@@ -173,9 +173,9 @@ Also in this post: [**Happy Bear-thday!**](/posts/happy-bear-thday/)
 > Location
 > : Balboa Theatre, San Diego
 
-{: .d-flex .justify-content-center }
-![Moana live concert at San Diego Balboa Theatre.](assets/img/2025-12-31-moana.jpg){: style="width: 128%; height: auto;" .normal .me-2 }
-![Balboa Theatre.](assets/img/2025-12-31-balboa-theatre.jpg){: style="width: 72%; height: auto;" .normal }
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Moana live concert at San Diego Balboa Theatre.](assets/img/2025-12-31-moana.jpg){: .normal .flex-64 }
+![Balboa Theatre.](assets/img/2025-12-31-balboa-theatre.jpg){: .normal .flex-36 }
 
 ## Tales of Enchantment
 > Time
@@ -200,8 +200,8 @@ Also in this post: [**Happy Bear-thday!**](/posts/happy-bear-thday/)
 
 More in this post: [**Messiah Sing-Along**](/posts/messiah-sing-along-2025/)
 
-{: .d-flex .justify-content-center }
-![Exterior of San Dieguito United Methodist Church](/assets/img/2025-11-29-messiah-sing-along-out.jpg){: .normal .mw-50 .me-2}
+{: .d-flex .justify-content-center style="gap: 0.5rem;" }
+![Exterior of San Dieguito United Methodist Church](/assets/img/2025-11-29-messiah-sing-along-out.jpg){: .normal .mw-50 }
 ![Messiah Sing-Along at San Dieguito United Methodist Church with a Magnificent Pipe Organ](/assets/img/2025-11-29-messiah-sing-along-in.jpg){: .normal .mw-50 }
 
 ## Beethoven Mass in C Major

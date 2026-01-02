@@ -1,0 +1,12 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Custom flex ratio utilities for image galleries */
+.flex-64 { flex: 64 1 0 !important; }
+.flex-36 { flex: 36 1 0 !important; }
