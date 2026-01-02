@@ -8,5 +8,7 @@
 ';
 
 /* Custom flex ratio utilities for image galleries */
-.flex-64 { flex: 64 1 0 !important; }
-.flex-36 { flex: 36 1 0 !important; }
+/* Target parent <a> when child <img> has the class */
+a:has(> img.flex-64) { flex: 64 1 0 !important; }
+a:has(> img.flex-36) { flex: 36 1 0 !important; }
+img.flex-64, img.flex-36 { width: 100%; }
